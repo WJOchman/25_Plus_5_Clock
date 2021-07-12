@@ -1,1 +1,3 @@
-# 25_Plus_5_Clock
+# 25 + 5 Clock
+
+Front-End Libraries Project 5
